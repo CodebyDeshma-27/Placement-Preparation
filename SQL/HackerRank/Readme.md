@@ -14,50 +14,53 @@ This section contains selected HackerRank SQL problems that introduced new conce
 * Hierarchical Data
 ## Concepts
 Concepts Covered
-String Functions
-CONCAT()
-LEFT()
-LOWER()
-REPLACE()
-Aggregation
-COUNT()
-SUM()
-AVG()
-GROUP BY
-HAVING
-Joins
-INNER JOIN
-LEFT JOIN
-CROSS JOIN
-Conditional Logic
-CASE WHEN
-Date Functions
-DATE_FORMAT()
-Mathematical Functions
-MOD()
-POWER()
-SQRT()
-ROUND()
-CEIL()
-Advanced SQL
-Recursive CTE
-Subqueries
-UNION ALL
-GROUP_CONCAT
-EXISTS / NOT EXISTS
-Selected Problems
-Problem	Concept
-The PADS	String Formatting
-Type of Triangle	CASE WHEN
-Print Prime Numbers	GROUP_CONCAT, NOT EXISTS
-Draw The Triangle 1	Recursive CTE
-Draw The Triangle 2	Recursive CTE
-Weather Observation Station 19	Geometry Functions
-The Blunder	Data Cleaning
-Monthly Transactions I	Conditional Aggregation
-Movie Rating	UNION ALL, Aggregation
-Tree Node	Hierarchical Data
-Students and Examinations	CROSS JOIN
+## String Functions
+1. CONCAT()
+2. LEFT()
+3. LOWER()
+4. REPLACE()
+## Aggregation
+1. COUNT()
+2. SUM()
+3. AVG()
+4. GROUP BY
+5. HAVING
+## Joins
+1. INNER JOIN
+2. LEFT JOIN
+3. CROSS JOIN
+4. RIGHT JOIN
+5. SELF JOIN
+## Conditional Logic
+1. CASE WHEN
+2. Date Functions
+3. DATE_FORMAT()
+## Mathematical Functions
+1. MOD()
+2. POWER()
+3. SQRT()
+4. ROUND()
+5. CEIL()
+## Advanced SQL
+1. Recursive CTE
+2. Subqueries
+3. UNION ALL
+4. GROUP_CONCAT
+5. EXISTS / NOT EXISTS
+## Selected Problems
+| Problem | Difficulty | Key Concepts |
+|----------|----------|----------|
+| The PADS | Medium | String Formatting, Aggregation |
+| Type of Triangle | Easy | CASE WHEN |
+| Print Prime Numbers | Medium | GROUP_CONCAT, NOT EXISTS |
+| Draw The Triangle 1 | Medium | Recursive CTE |
+| Draw The Triangle 2 | Medium | Recursive CTE |
+| Weather Observation Station 19 | Easy | Geometry Functions, Mathematical Operations |
+| The Blunder | Easy | Data Cleaning, String Manipulation |
+| Monthly Transactions I | Medium | Conditional Aggregation, CASE WHEN |
+| Movie Rating | Medium | UNION ALL, Aggregation |
+| Tree Node | Medium | Hierarchical Data, CASE WHEN |
+| Students and Examinations | Easy | CROSS JOIN, LEFT JOIN |
 
 ---
 

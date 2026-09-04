@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-06-10 13:49",
-    "total_problems": 3,
+    "last_updated": "2026-09-04 10:42",
+    "total_problems": 4,
     "subjects": {
         "SQL": 3,
-        "DSA": 0,
+        "DSA": 1,
         "DBMS": 0,
         "OS": 0,
         "CN": 0,
